@@ -1,0 +1,19 @@
+{
+  "translations": {
+    "navbar": {
+      "ru": "Рус",
+      "uz": "O'zb",
+      "en": "Eng",
+      "textexmaple": "Apple",
+      "catalog": "Каталог",
+      "trip": "Начать путешествие",
+      "types": "Виды туризма"
+    },
+    "mainPage": {
+      "main": "Главная страница"
+    },
+    "village": {
+      "review": "обзоров"
+    }
+  }
+}

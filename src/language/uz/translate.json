@@ -1,0 +1,16 @@
+{
+  "translations": {
+    "navbar": {
+      "ru": "Рус",
+      "uz": "O'zb",
+      "en": "Eng",
+      "textexmaple": "Apple",
+      "catalog": "Katalog",
+      "trip": "Sayohat tuzish",
+      "types": "Turizm turlari"
+    },
+    "mainPage": {
+      "main": "Bosh saxifa"
+    }
+  }
+}

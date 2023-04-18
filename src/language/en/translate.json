@@ -1,0 +1,22 @@
+{
+  "translations": {
+    "navbar": {
+      "ru": "Рус",
+      "uz": "O'zb",
+      "en": "Eng",
+      "textexmaple": "Apple",
+      "catalog": "Catalog",
+      "trip": "start journey",
+      "types": "Types of turizm"
+    },
+    "mainPage": {
+      "main": "Main Page"
+    },
+    "village": {
+      "review": "review",
+      "card": {
+        "about": "About Village"
+      }
+    }
+  }
+}
